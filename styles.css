@@ -1,7 +1,12 @@
 .check-box {
   border: 2px solid black;
+  cursor: pointer;
 }
 
 .invisible {
   width: 100%;
+}
+
+.text-right {
+  font-weight: bold;
 }
